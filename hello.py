@@ -1,3 +1,1 @@
-print("Coucou & olà")
-print("Bye bye, Mr. American Pie !")
-
+a =3
