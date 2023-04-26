@@ -1,2 +1,2 @@
-print("Say goodbye")
-print("olà")
+print("Coucou & olà")
+print("Bye bye")
